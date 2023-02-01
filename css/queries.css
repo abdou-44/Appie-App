@@ -1,0 +1,99 @@
+@media (max-width: 78em) {
+  .heading-hero {
+    font-size: 5.2rem;
+  }
+
+  .sponsers-title {
+    padding: 0 25rem;
+  }
+}
+
+@media (max-width: 72em) {
+  .heading-hero {
+    font-size: 4.8rem;
+  }
+
+  .how-info {
+    font-size: 1.2rem;
+  }
+
+  .four-p {
+    font-size: 0.8rem;
+  }
+
+  .detels-video {
+    padding-right: 25rem;
+  }
+
+  .sponsers-title {
+    padding: 0 17rem;
+  }
+
+  .sponsers-imgs {
+    padding: 0 8rem;
+  }
+
+  .title-info {
+    padding: 5rem 1rem 0 2rem;
+  }
+
+  .wherever-box {
+    padding: 3rem 1rem 1rem 1.4rem;
+  }
+}
+
+@media (max-width: 68em) {
+  .four-div-icons {
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
+
+@media (max-width: 65em) {
+  .how-info {
+    font-size: 1rem;
+  }
+
+  .title-box {
+    font-size: 1.6rem;
+  }
+}
+
+@media (max-width: 63em) {
+  .sponsers-title {
+    padding: 0 15rem;
+  }
+  .footer-title {
+    font-size: 1.6rem;
+  }
+
+  .list-comp li {
+    font-size: 1.2rem;
+  }
+
+  .footer-p {
+    font-size: 1.2rem;
+  }
+}
+
+@media (max-width: 60em) {
+  .mobile-nav {
+    display: block;
+  }
+
+  .gitstart {
+    display: none;
+  }
+
+  .nav-list {
+    top: 0;
+    left: 0;
+    position: absolute;
+    background-color: rgba(255, 255, 255, 0.97);
+    width: 100%;
+    height: 100vh;
+
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+  }
+}
